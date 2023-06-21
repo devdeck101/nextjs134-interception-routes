@@ -2,9 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-Este é um projeto que reflete o Viedo do Cana [https://www.youtube.com/@DeveloperDeck101](DeveloperDeck101) que você pode seguir.
+Este é um projeto que reflete o Video do Canal [DeveloperDeck101](https://www.youtube.com/@DeveloperDeck101) que você pode seguir.
 
-Link para o Vídeo [https://www.youtube.com/watch?v=ywIVjf-JsZE](Masterclass Modal Intercepting Routes)
+Link para o Vídeo [Masterclass Nextjs13.4 - Modal Intercepting Routes](https://www.youtube.com/watch?v=ywIVjf-JsZE)
 
 First, run the development server:
 
