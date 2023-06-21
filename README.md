@@ -2,6 +2,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
+Este é um projeto que reflete o Viedo do Cana [https://www.youtube.com/@DeveloperDeck101](DeveloperDeck101) que você pode seguir.
+
+Link para o Vídeo [https://www.youtube.com/watch?v=ywIVjf-JsZE](Masterclass Modal Intercepting Routes)
+
 First, run the development server:
 
 ```bash
